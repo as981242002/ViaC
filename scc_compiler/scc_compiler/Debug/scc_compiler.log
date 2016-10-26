@@ -1,0 +1,2 @@
+﻿dynstring.obj : error LNK2019: 无法解析的外部符号 "void __cdecl Dynstring_free(struct DynString *)" (?Dynstring_free@@YAXPAUDynString@@@Z)，该符号在函数 "void __cdecl Dynstring_reset(struct DynString *)" (?Dynstring_reset@@YAXPAUDynString@@@Z) 中被引用
+d:\我的文档\visual studio 2015\Projects\scc_compiler\Debug\scc_compiler.exe : fatal error LNK1120: 1 个无法解析的外部命令
